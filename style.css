@@ -1,5 +1,5 @@
 body {
-  background: white;
+  background: blue;
   font-family: sans-serif
 }
 p {
@@ -13,6 +13,6 @@ div {
   font-family: cursive;
   font-size: 9px;
 }
- h2{
+ h2 {
    color: blue;
 }

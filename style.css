@@ -13,6 +13,7 @@ div {
   font-family: cursive;
   font-size: 9px;
 }
- h2 {
-   color: blue;
+
+h2 {
+  font-style: italic
 }
